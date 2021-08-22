@@ -1,4 +1,4 @@
-package lottos_0816;
+package level1.lottos_0817;
 
 class MySolution {
     public int[] solution(int[] lottos, int[] win_nums) {

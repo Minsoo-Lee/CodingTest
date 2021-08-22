@@ -1,6 +1,6 @@
 // 프로그래머스 흐억, shadowcat02 님의 코드
 
-package lottos_0816;
+package level1.lottos_0817;
 
 import java.util.HashMap;
 import java.util.Map;

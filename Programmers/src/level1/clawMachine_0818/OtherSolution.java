@@ -1,7 +1,7 @@
 // 프로그래머스 홍희표, -, illy, 주익정, syeon-c 님의 코드
 // Stack을 이용한 풀이
 
-package clawMachine_0817;
+package level1.clawMachine_0818;
 
 import java.util.Stack;
 
