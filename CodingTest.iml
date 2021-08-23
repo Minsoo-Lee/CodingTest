@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Programmers/src/level1/clawMachine_0818" isTestSource="false" packagePrefix="clawMachine_0817" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers/src/level1/lottos_0817" isTestSource="false" packagePrefix="lottos_0816" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
