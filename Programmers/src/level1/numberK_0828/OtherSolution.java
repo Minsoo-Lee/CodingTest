@@ -2,7 +2,7 @@
 
 // 라이브러리를 사용하지 않고 정렬 메서드를 만들어 구현
 
-package level1.numberK;
+package level1.numberK_0828;
 
 class OtherSolution {
     public int[] solution(int[] array, int[][] commands) {
