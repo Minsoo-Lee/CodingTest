@@ -1,4 +1,4 @@
-package level1.weeklyChallenge2;
+package level1.weeklyChallenge2_0902;
 
 import java.util.Arrays;
 

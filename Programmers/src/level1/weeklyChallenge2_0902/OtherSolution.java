@@ -1,6 +1,6 @@
 // 프로그래머스 코딩테스트봇 님의 코드
 
-package level1.weeklyChallenge2;
+package level1.weeklyChallenge2_0902;
 
 class OtherSolution {
     public String solution(int[][] scores) {
