@@ -4,7 +4,7 @@ class MySolution {
     public long solution(int price, int money, int count) {
         long totalPrice = 0;
         // 필요한 총 금액 저장
-        
+
         for (int i=0; i<count; i++) {
             totalPrice += price * (i+1);
         }
