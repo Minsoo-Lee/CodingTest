@@ -1,7 +1,7 @@
 // 프로그래머스 -, -, jrooney, -, coffeeSoda 님의 코드
 // indexOf 메소드 사용 -
 
-package level1.findMrKim;
+package level1.findMrKim_0915;
 
 import java.util.Arrays;
 

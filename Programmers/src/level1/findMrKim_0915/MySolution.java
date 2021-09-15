@@ -1,6 +1,6 @@
 // 확실히 메소드 없이 직접 구현하는 편이 시간이 덜 든다.
 
-package level1.findMrKim;
+package level1.findMrKim_0915;
 
 class MySolution {
     public String solution(String[] seoul) {
